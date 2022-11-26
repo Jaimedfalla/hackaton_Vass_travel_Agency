@@ -1,0 +1,75 @@
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('Avianca');
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('Copa Airlines Colombia');
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('Cosmos S.A');
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('EasyFly');
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('LATAM');
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('Viva Air Colombia');
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('Aexpa');
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('LANSA');
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('Satena');
+INSERT INTO VASS.AIRLINES(name)
+VALUES ('Ultra Air');
+
+---------------------------------
+
+INSERT INTO VASS.HOTELS(name)
+VALUES ('The Journey Hostel');
+INSERT INTO VASS.HOTELS(name)
+VALUES ('Origen Hostel');
+INSERT INTO VASS.HOTELS(name)
+VALUES ('Maloka Boutique Hostel');
+INSERT INTO VASS.HOTELS(name)
+VALUES ('The Clock Boutique Hostel');
+INSERT INTO VASS.HOTELS(name)
+VALUES ('Los Patios Hostal');
+INSERT INTO VASS.HOTELS(name)
+VALUES ('IVY Hostel');
+INSERT INTO VASS.HOTELS(name)
+VALUES ('KeyWest Hostel');
+INSERT INTO VASS.HOTELS(name)
+VALUES ('Hobu Hostel');
+INSERT INTO VASS.HOTELS(name)
+VALUES ('Barlovento');
+INSERT INTO VASS.HOTELS(name)
+VALUES ('Masaya San Agustin');
+
+-------------------------------------------
+
+INSERT INTO VASS.CITIES(name)
+VALUES ('Leticia');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Medellin');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Barranquilla');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Cartagena');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Bogota');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Manizales');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Neiva');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Santa Marta');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Popayán');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Pasto');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Ipiales');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Armenia');
+INSERT INTO VASS.CITIES(name)
+VALUES ('Buenaventura');
+
+
+
